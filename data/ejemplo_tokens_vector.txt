@@ -1,0 +1,2 @@
+Vocabulario: [hola, como, andas]
+Vector: [1, 1, 1]
