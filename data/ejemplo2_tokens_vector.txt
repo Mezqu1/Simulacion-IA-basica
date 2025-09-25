@@ -1,0 +1,2 @@
+Vocabulario: [probando, programa, anda, bien, y, mal]
+Vector: [2, 1, 2, 2, 1, 1]
